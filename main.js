@@ -1,5 +1,5 @@
 
-export default function PedigreeViewer(brapijs,version,urlFunc){
+export default function PedigreeViewer(brapijs,urlFunc){
     var pdgv = {};
     var root = null;
     var access_token = null;
